@@ -3,7 +3,7 @@
 
 <ul align="center">
   <li>🔭 I'm currently working on <strong>Some Private Projects</strong></li>
-  <li>🌱 I'm currently improving my skills in <strong>C++, C#, JavaScript, Python, and FiveM Lua</strong></li>
+  <li>🌱 I'm currently improving my skills in <strong>C++, C#, JavaScript, Python, and Lua</strong></li>
   <li>💬 Ask me about <strong>C#, C++, JS development, Python, and FiveM Lua</strong></li>
   <li>⚡ Fun fact: I love to explore and experiment with technology</li>
 </ul>
@@ -30,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://docs.fivem.net/docs/scripting-manual/introduction/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="FiveM Lua" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
   </a>
   <!-- Add more languages and tools here -->
 </p>
