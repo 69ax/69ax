@@ -4,7 +4,7 @@
 <ul align="center">
   <li>🔭 I'm currently working on <strong>Some Private Projects</strong></li>
   <li>🌱 I'm currently improving my skills in <strong>C++, C#, JavaScript, Python, and Lua</strong></li>
-  <li>💬 Ask me about <strong>C#, C++, JS development, Python, and FiveM Lua</strong></li>
+  <li>💬 Ask me about <strong>C#, C++, JS development, Python, and Lua</strong></li>
   <li>⚡ Fun fact: I love to explore and experiment with technology</li>
 </ul>
 
